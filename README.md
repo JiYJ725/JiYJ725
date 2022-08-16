@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=002366&height=300&section=header&text=JI%20YeongJun&fontSize=90&fontColor=fff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=4169E1&height=300&section=header&text=JI%20YeongJun&fontSize=90&fontColor=fff&animation=fadeIn)
 
 #### Frontend Developer
 
